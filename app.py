@@ -1,0 +1,1 @@
+print("Sabes que mais, vou saltar para cima e não para o lado")
